@@ -1,0 +1,40 @@
+.sidebar-container {
+    width: 250px;
+    background-color: #191A27;
+    min-height: 100%;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-area {
+    padding-top: 30px;
+}
+
+.logo {
+    padding: 10px 5px;
+    width: 70%;
+}
+
+
+.menu-label {
+    color: white;
+    font-size: 20px;
+}
+
+.menu-icon {
+    padding: 0 20px;
+}
+
+.menu-item {
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item:hover {
+    background-color: #414252;
+}

@@ -1,0 +1,25 @@
+.board-container {
+    width: 100%;
+    background-color: darkseagreen;
+    min-height: 100%;
+    display: flex;
+}
+
+
+.left-area {
+ flex: 1;
+}
+
+.right-area {
+    width: 430px;
+    background-color: #191A27;
+}
+
+.profile-card {
+    display: flex;
+    height: 130px;
+    background-color: cornflowerblue;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
